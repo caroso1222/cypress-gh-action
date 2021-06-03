@@ -1,0 +1,11 @@
+{
+  "name": "cypress-gh-actions",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "git@github.com:caroso1222/cypress-gh-action.git",
+  "author": "Carlos Edinson Roso Espinosa <ce.roso398@gmail.com>",
+  "license": "MIT",
+  "devDependencies": {
+    "cypress": "^7.4.0"
+  }
+}
