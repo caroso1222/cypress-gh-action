@@ -5,6 +5,10 @@
   "repository": "git@github.com:caroso1222/cypress-gh-action.git",
   "author": "Carlos Edinson Roso Espinosa <ce.roso398@gmail.com>",
   "license": "MIT",
+  "scripts": {
+    "build": "echo building-from-gh-action",
+    "start": "echo starting-from-gh-action"
+  },
   "devDependencies": {
     "cypress": "^7.4.0"
   }
